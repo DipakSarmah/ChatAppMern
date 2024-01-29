@@ -25,8 +25,7 @@ const PORT = process.env.PORT||5001;
 const io = require('socket.io')(server,{
     cors: {
         origin: 'https://chat-app-frontend-sepia-one.vercel.app',
-        methods: ['GET','POST'],
-        credentials: true,
+        methods: ['GET','POST','DELETE'],
     }
 })
 
