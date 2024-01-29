@@ -19,8 +19,9 @@ const server = require('http').createServer(app);
 const PORT = 5001;
 const io = require('socket.io')(server,{
     cors: {
-        origin: 'http://localhost:3000',
-        methods: ['GET','POST']
+        origin: 'https://chat-app-frontend-sepia-one.vercel.app/',
+        methods: ['GET','POST'],
+        credentials: true
     }
 })
 
