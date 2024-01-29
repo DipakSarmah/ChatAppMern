@@ -1,0 +1,28 @@
+# Node.js / Express
+node_modules/
+npm-debug.log
+
+# React.js
+build/
+dist/
+*.log
+npm-debug.log
+yarn-error.log
+
+# MongoDB
+*.mdump
+*.msdump
+*.bak
+
+# Visual Studio Code
+.vscode/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# IDE (e.g., WebStorm) configuration
+.idea/
+
+# Environment variables
+.env
