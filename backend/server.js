@@ -21,7 +21,6 @@ const io = require('socket.io')(server,{
     cors: {
         origin: 'https://chat-app-frontend-sepia-one.vercel.app/',
         methods: ['GET','POST'],
-        credentials: true
     }
 })
 
