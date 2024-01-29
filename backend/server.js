@@ -11,7 +11,7 @@ app.use(express.json())
 app.use(cors(
     {
         origin: 'https://chat-app-frontend-sepia-one.vercel.app',
-        methods: ['GET','POST'],
+        methods: ['GET','POST','DELETE'],
         credentials: true,
     }
 ));
