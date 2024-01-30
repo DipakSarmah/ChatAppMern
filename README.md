@@ -21,7 +21,7 @@ Welcome to the MERN Stack Chat App! This application allows users to log in and 
 1. **Clone the repository:**
 
    ```bash
-   git clone [https://github.com/your-username/mern-chat-app.git](https://github.com/DipakSarmah/ChatAppMern)https://github.com/DipakSarmah/ChatAppMern
+   git clone https://github.com/DipakSarmah/ChatAppMern
    cd mern-chat-app
    ```
 
