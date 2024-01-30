@@ -47,6 +47,18 @@ Welcome to the MERN Stack Chat App! This application allows users to log in and 
    ```
 6. **Open your browser and go to http://localhost:3000 to use the MERN Stack Chat App.**
 
+## Live Demo
+
+Explore the live version of the MERN Stack Chat App by visiting [MERN Stack Chat App](https://chat-app-frontend-sepia-one.vercel.app/).
+
+Feel free to log in using the demo credentials:
+
+- **Username:** user4@example.com
+- **Password:** password
+
+Please note that this is a demo environment, and any data entered is for testing purposes only.
+
+
 ## Screenshots
 
 ![Landing page](https://github.com/DipakSarmah/ChatAppMern/assets/92313801/46496cc9-c0dd-463a-aa92-ee9068ec76de)
