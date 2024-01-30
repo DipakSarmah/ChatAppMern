@@ -1,4 +1,4 @@
-![Screenshot 2024-01-30 163056](https://github.com/DipakSarmah/ChatAppMern/assets/92313801/ebae6de1-c6d6-4ab3-8a3b-bb13dfe859b2)
+![Landing page](https://github.com/DipakSarmah/ChatAppMern/assets/92313801/46496cc9-c0dd-463a-aa92-ee9068ec76de)
 ### MERN Stack Chat App
 
 Welcome to the MERN Stack Chat App! This application allows users to log in and chat with their close ones in real-time using Socket.io. The MERN stack (MongoDB, Express.js, React, and Node.js) powers this application, providing a robust and efficient solution for building modern web applications.
